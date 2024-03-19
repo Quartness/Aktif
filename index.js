@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Turk_Community","🔥🔥🔥"];
+const statusMessages = ["🟢"];
 
 
 let currentIndex = 0;
